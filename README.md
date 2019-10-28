@@ -73,8 +73,7 @@ __Caution:__ Don't forget to add `-m` it specifies message to commit.If you forg
 Push your changes using the `git push` command:
 `git push origin <add-your-name>`
 
-replacing `<add-your-name>` with the name of the branch you created earlier.
-
+<kuch to karna tha>
 ## 6.Submit your changes for review
 
 Now go to your repository on GitHub, you'll see a  `New pull request` button.  Click on that button.
